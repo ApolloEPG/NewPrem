@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="none" generator-info-url="none">
+<channel id="Premier League Teams 2025/2026">
+<display-name lang="en">Premier League Teams 2025/2026</display-name>
+<icon src="https://archive.org/download/Barnsley_202309/Barnsley.jpg"/>
+</channel>
+<programme start="20260130000000 +0000" stop="20260730215959 +0000" channel="Premier League Teams 2025/2026">
+<title lang="en">Premier League Teams</title>
+<desc lang="en">This Section Has Two Channels For Each Premier League Team And Will Show League + Cup Games For All 2025/2026 Games</desc>
+</programme>
+<channel id="Arsenal">
+<display-name lang="en">Arsenal</display-name>
+<icon src="https://archive.org/download/arsenal_202309/Arsenal.jpg"/>
+</channel>
+<programme start="20260216000000 +0000" stop="20260222215959 +0000" channel="Arsenal">
+<title lang="en">Tottenham Hotspur v Arsenal</title>
+<desc lang="en">Tottenham Hotspur v Arsenal - Sunday 22nd February - 16:30 Kick Off GMT - English Premier League
+Next Three Fixtures:
+Arsenal v Chelsea (01/03)
+Brighton v Arsenal (04/03)
+Arsenal v Everton (15/03)</desc>
+</programme>
+<programme start="20260223000000 +0000" stop="20260301215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Chelsea</title>
+<desc lang="en">Next Fixture - Arsenal v Chelsea - Sunday 1st March - 16:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260302000000 +0000" stop="20260304215959 +0000" channel="Arsenal">
+<title lang="en">Brighton v Arsenal</title>
+<desc lang="en">Next Fixture - Brighton v Arsenal - Wednesday 4th March - 19:30 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260305000000 +0000" stop="20260315215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Everton</title>
+<desc lang="en">Next Fixture - Arsenal v Everton - Sunday 15th March - 14:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260316000000 +0000" stop="20260321215959 +0000" channel="Arsenal">
+<title lang="en">Wolves v Arsenal</title>
+<desc lang="en">Next Fixture - Wolves v Arsenal - Saturday 21st March - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260322000000 +0000" stop="20260411215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v AFC Bournemouth</title>
+<desc lang="en">Next Fixture - Arsenal v AFC Bournemouth - Saturday 11th April - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260412000000 +0000" stop="20260418215959 +0000" channel="Arsenal">
+<title lang="en">Manchester City v Arsenal</title>
+<desc lang="en">Next Fixture - Manchester City v Arsenal - Saturday 18th April - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260419000000 +0000" stop="20260425215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Newcastle United</title>
+<desc lang="en">Next Fixture - Arsenal v Newcastle United - Saturday 25th April - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260426000000 +0000" stop="20260502215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Fulham</title>
+<desc lang="en">Next Fixture - Arsenal v Fulham - Saturday 2nd May - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260503000000 +0000" stop="20260509215959 +0000" channel="Arsenal">
+<title lang="en">West Ham United v Arsenal</title>
+<desc lang="en">Next Fixture - West Ham United v Arsenal - Saturday 9th May - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260510000000 +0000" stop="20260517215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Burnley</title>
+<desc lang="en">Next Fixture - Arsenal v Burnley - Sunday 17th May - 15:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="20260518000000 +0000" stop="20260524215959 +0000" channel="Arsenal">
+<title lang="en">Arsenal v Burnley</title>
+<desc lang="en">Next Fixture - Arsenal v Burnley - Sunday 24th May - 16:00 Kick Off GMT - English Premier League</desc>
+</programme>
+<programme start="2026052500000 +0000" stop="20260731215959 +0000" channel="Arsenal">
+<title lang="en">End Of Season</title>
+<desc lang="en">The 2025/2026 Season Has Now Finished</desc>
+</tv>
