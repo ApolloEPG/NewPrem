@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="mydummy" generator-info-url="https://null.null/">
-    <channel id="101Dalmatians">
-        <display-name lang="pt">101Dalmatians</display-name>
+    <channel id="Arsenal">
+        <display-name lang="pt">Arsenal</display-name>
     </channel>
-    <channel id="12Monkeys">
-        <display-name lang="pt">12Monkeys</display-name>
+    <channel id="Aston Villa">
+        <display-name lang="pt">Aston Villa</display-name>
     </channel>
-    <channel id="13ReasonsWhy">
-        <display-name lang="pt">13ReasonsWhy</display-name>
+    <channel id="Bournemouth">
+        <display-name lang="pt">Bournemouth</display-name>
     </channel>
-    <channel id="15StoreysHigh">
-        <display-name lang="pt">15StoreysHigh</display-name>
+    <channel id="Brentford">
+        <display-name lang="pt">Brentford</display-name>
     </channel>
-    <channel id="21JumpStreet">
-        <display-name lang="pt">21JumpStreet</display-name>
+    <channel id="Brighton">
+        <display-name lang="pt">Brighton</display-name>
     </channel>
-    <channel id="24HoursinAandE">
-        <display-name lang="pt">24HoursinAandE</display-name>
+    <channel id="Burnley">
+        <display-name lang="pt">Burnley</display-name>
     </channel>
-    <channel id="24">
-        <display-name lang="pt">24</display-name>
+    <channel id="Chelsea">
+        <display-name lang="pt">Chelsea</display-name>
     </channel>
-    <channel id="8SimpleRules">
-        <display-name lang="pt">8SimpleRules</display-name>
+    <channel id="Crystal Palace">
+        <display-name lang="pt">Crystal Palace</display-name>
     </channel>
-    <channel id="9-1-1:LoneStar">
-        <display-name lang="pt">9-1-1:LoneStar</display-name>
+    <channel id="Everton">
+        <display-name lang="pt">Everton</display-name>
     </channel>
-    <channel id="ANightmareonElmStreet">
-        <display-name lang="pt">ANightmareonElmStreet</display-name>
+    <channel id="Fulham">
+        <display-name lang="pt">Fulham</display-name>
     </channel>
     <channel id="AbsolutelyFabulous">
         <display-name lang="pt">AbsolutelyFabulous</display-name>
