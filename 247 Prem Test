@@ -59,6 +59,7 @@
     </channel>
     <channel id="Wolves">
         <display-name lang="pt">Wolves</display-name>
+    </channel>
     <programme start="20260216000000 +0000" stop="20260218235900 +0000" channel="Arsenal">
         <title lang="pt">Wolves v Arsenal</title>
         <desc lang="pt">Wolves v Arsenal - Wednesday 18th February - 20:00 Kick Off GMT - English Premier League</desc>
