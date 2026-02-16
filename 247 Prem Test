@@ -30,17 +30,17 @@
     <channel id="Fulham">
         <display-name lang="pt">Fulham</display-name>
     </channel>
-    <channel id="AbsolutelyFabulous">
-        <display-name lang="pt">AbsolutelyFabulous</display-name>
+    <channel id="Leeds United">
+        <display-name lang="pt">Leeds United</display-name>
     </channel>
-    <channel id="AdamSandler">
-        <display-name lang="pt">AdamSandler</display-name>
+    <channel id="Liverpool">
+        <display-name lang="pt">Liverpool</display-name>
     </channel>
-    <channel id="Airwolf">
-        <display-name lang="pt">Airwolf</display-name>
+    <channel id="Manchester City">
+        <display-name lang="pt">Manchester City</display-name>
     </channel>
-    <channel id="Aladdin">
-        <display-name lang="pt">Aladdin</display-name>
+    <channel id="Manchester United">
+        <display-name lang="pt">Manchester United</display-name>
     </channel>
     <channel id="Alien">
         <display-name lang="pt">Alien</display-name>
