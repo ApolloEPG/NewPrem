@@ -1,223 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="mydummy" generator-info-url="https://null.null/">
     <channel id="Arsenal">
-        <display-name lang="pt">Arsenal</display-name>
+        <display-name lang="en">Arsenal</display-name>
     </channel>
     <channel id="Aston Villa">
-        <display-name lang="pt">Aston Villa</display-name>
+        <display-name lang="en">Aston Villa</display-name>
     </channel>
     <channel id="Bournemouth">
-        <display-name lang="pt">Bournemouth</display-name>
+        <display-name lang="en">Bournemouth</display-name>
     </channel>
     <channel id="Brentford">
-        <display-name lang="pt">Brentford</display-name>
+        <display-name lang="en">Brentford</display-name>
     </channel>
     <channel id="Brighton">
-        <display-name lang="pt">Brighton</display-name>
+        <display-name lang="en">Brighton</display-name>
     </channel>
     <channel id="Burnley">
-        <display-name lang="pt">Burnley</display-name>
+        <display-name lang="en">Burnley</display-name>
     </channel>
     <channel id="Chelsea">
-        <display-name lang="pt">Chelsea</display-name>
+        <display-name lang="en">Chelsea</display-name>
     </channel>
     <channel id="Crystal Palace">
-        <display-name lang="pt">Crystal Palace</display-name>
+        <display-name lang="en">Crystal Palace</display-name>
     </channel>
     <channel id="Everton">
-        <display-name lang="pt">Everton</display-name>
+        <display-name lang="en">Everton</display-name>
     </channel>
     <channel id="Fulham">
-        <display-name lang="pt">Fulham</display-name>
+        <display-name lang="en">Fulham</display-name>
     </channel>
     <channel id="Leeds United">
-        <display-name lang="pt">Leeds United</display-name>
+        <display-name lang="en">Leeds United</display-name>
     </channel>
     <channel id="Liverpool">
-        <display-name lang="pt">Liverpool</display-name>
+        <display-name lang="en">Liverpool</display-name>
     </channel>
     <channel id="Manchester City">
-        <display-name lang="pt">Manchester City</display-name>
+        <display-name lang="en">Manchester City</display-name>
     </channel>
     <channel id="Manchester United">
-        <display-name lang="pt">Manchester United</display-name>
+        <display-name lang="en">Manchester United</display-name>
     </channel>
     <channel id="Newcastle United">
-        <display-name lang="pt">Newcastle United</display-name>
+        <display-name lang="en">Newcastle United</display-name>
     </channel>
     <channel id="Nottingham Forest">
-        <display-name lang="pt">Nottingham Forest</display-name>
+        <display-name lang="en">Nottingham Forest</display-name>
     </channel>
     <channel id="Sunderland">
-        <display-name lang="pt">Sunderland</display-name>
+        <display-name lang="en">Sunderland</display-name>
     </channel>
     <channel id="Tottenham Hotspur">
-        <display-name lang="pt">Tottenham Hotspur</display-name>
+        <display-name lang="en">Tottenham Hotspur</display-name>
     </channel>
     <channel id="West Ham United">
-        <display-name lang="pt">West Ham United</display-name>
+        <display-name lang="en">West Ham United</display-name>
     </channel>
     <channel id="Wolves">
-        <display-name lang="pt">Wolves</display-name>
+        <display-name lang="en">Wolves</display-name>
     </channel>
-    <programme start="20260216000000 +0000" stop="20260218235900 +0000" channel="Arsenal">
-        <title lang="pt">Wolves v Arsenal</title>
-        <desc lang="pt">Wolves v Arsenal - Wednesday 18th February - 20:00 Kick Off GMT - English Premier League</desc>
+    <programme start="20260216000000 +0000" stop="20260218215959 +0000" channel="Arsenal">
+        <title lang="en">Wolves v Arsenal</title>
+        <desc lang="en">Wolves v Arsenal - Wednesday 18th February - 20:00 Kick Off GMT - English Premier League</desc>
     </programme>
-    <programme start="20260219000000 +0000" stop="20260222235900 +0000" channel="Arsenal">
-        <title lang="pt">Tottenham Hotspur v Arsenal</title>
-        <desc lang="pt">Tottenham Hotspur v Arsenal - Sunday 22nd February - 16:30 Kick Off GMT - English Premier League</desc>
+    <programme start="20260219000000 +0000" stop="20260222215959 +0000" channel="Arsenal">
+        <title lang="en">Tottenham Hotspur v Arsenal</title>
+        <desc lang="en">Tottenham Hotspur v Arsenal - Sunday 22nd February - 16:30 Kick Off GMT - English Premier League</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="12Monkeys">
-        <title lang="pt">24/7 12 Monkeys</title>
-        <desc lang="pt">24/7 12 Monkeys</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="12Monkeys">
+        <title lang="en">24/7 12 Monkeys</title>
+        <desc lang="en">24/7 12 Monkeys</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="12Monkeys">
-        <title lang="pt">24/7 12 Monkeys</title>
-        <desc lang="pt">24/7 12 Monkeys</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="12Monkeys">
+        <title lang="en">24/7 12 Monkeys</title>
+        <desc lang="en">24/7 12 Monkeys</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="13ReasonsWhy">
-        <title lang="pt">24/7 13 Reasons Why</title>
-        <desc lang="pt">24/7 13 Reasons Why</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="13ReasonsWhy">
+        <title lang="en">24/7 13 Reasons Why</title>
+        <desc lang="en">24/7 13 Reasons Why</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="13ReasonsWhy">
-        <title lang="pt">24/7 13 Reasons Why</title>
-        <desc lang="pt">24/7 13 Reasons Why</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="13ReasonsWhy">
+        <title lang="en">24/7 13 Reasons Why</title>
+        <desc lang="en">24/7 13 Reasons Why</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="15StoreysHigh">
-        <title lang="pt">24/7 15 Storeys High</title>
-        <desc lang="pt">24/7 15 Storeys High</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="15StoreysHigh">
+        <title lang="en">24/7 15 Storeys High</title>
+        <desc lang="en">24/7 15 Storeys High</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="15StoreysHigh">
-        <title lang="pt">24/7 15 Storeys High</title>
-        <desc lang="pt">24/7 15 Storeys High</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="15StoreysHigh">
+        <title lang="en">24/7 15 Storeys High</title>
+        <desc lang="en">24/7 15 Storeys High</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="21JumpStreet">
-        <title lang="pt">24/7 21 Jump Street</title>
-        <desc lang="pt">24/7 21 Jump Street</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="21JumpStreet">
+        <title lang="en">24/7 21 Jump Street</title>
+        <desc lang="en">24/7 21 Jump Street</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="21JumpStreet">
-        <title lang="pt">24/7 21 Jump Street</title>
-        <desc lang="pt">24/7 21 Jump Street</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="21JumpStreet">
+        <title lang="en">24/7 21 Jump Street</title>
+        <desc lang="en">24/7 21 Jump Street</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="24HoursinAandE">
-        <title lang="pt">24/7 24 Hours in AandE</title>
-        <desc lang="pt">24/7 24 Hours in AandE</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="24HoursinAandE">
+        <title lang="en">24/7 24 Hours in AandE</title>
+        <desc lang="en">24/7 24 Hours in AandE</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="24HoursinAandE">
-        <title lang="pt">24/7 24 Hours in AandE</title>
-        <desc lang="pt">24/7 24 Hours in AandE</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="24HoursinAandE">
+        <title lang="en">24/7 24 Hours in AandE</title>
+        <desc lang="en">24/7 24 Hours in AandE</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="24">
-        <title lang="pt">24/7 24</title>
-        <desc lang="pt">24/7 24</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="24">
+        <title lang="en">24/7 24</title>
+        <desc lang="en">24/7 24</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="24">
-        <title lang="pt">24/7 24</title>
-        <desc lang="pt">24/7 24</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="24">
+        <title lang="en">24/7 24</title>
+        <desc lang="en">24/7 24</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="8SimpleRules">
-        <title lang="pt">24/7 8 Simple Rules</title>
-        <desc lang="pt">24/7 8 Simple Rules</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="8SimpleRules">
+        <title lang="en">24/7 8 Simple Rules</title>
+        <desc lang="en">24/7 8 Simple Rules</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="8SimpleRules">
-        <title lang="pt">24/7 8 Simple Rules</title>
-        <desc lang="pt">24/7 8 Simple Rules</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="8SimpleRules">
+        <title lang="en">24/7 8 Simple Rules</title>
+        <desc lang="en">24/7 8 Simple Rules</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="9-1-1:LoneStar">
-        <title lang="pt">24/7 9-1-1: Lone Star</title>
-        <desc lang="pt">24/7 9-1-1: Lone Star</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="9-1-1:LoneStar">
+        <title lang="en">24/7 9-1-1: Lone Star</title>
+        <desc lang="en">24/7 9-1-1: Lone Star</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="9-1-1:LoneStar">
-        <title lang="pt">24/7 9-1-1: Lone Star</title>
-        <desc lang="pt">24/7 9-1-1: Lone Star</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="9-1-1:LoneStar">
+        <title lang="en">24/7 9-1-1: Lone Star</title>
+        <desc lang="en">24/7 9-1-1: Lone Star</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="ANightmareonElmStreet">
-        <title lang="pt">24/7 A Nightmare on Elm Street</title>
-        <desc lang="pt">24/7 A Nightmare on Elm Street</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="ANightmareonElmStreet">
+        <title lang="en">24/7 A Nightmare on Elm Street</title>
+        <desc lang="en">24/7 A Nightmare on Elm Street</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="ANightmareonElmStreet">
-        <title lang="pt">24/7 A Nightmare on Elm Street</title>
-        <desc lang="pt">24/7 A Nightmare on Elm Street</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="ANightmareonElmStreet">
+        <title lang="en">24/7 A Nightmare on Elm Street</title>
+        <desc lang="en">24/7 A Nightmare on Elm Street</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AbsolutelyFabulous">
-        <title lang="pt">24/7 Absolutely Fabulous</title>
-        <desc lang="pt">24/7 Absolutely Fabulous</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AbsolutelyFabulous">
+        <title lang="en">24/7 Absolutely Fabulous</title>
+        <desc lang="en">24/7 Absolutely Fabulous</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AbsolutelyFabulous">
-        <title lang="pt">24/7 Absolutely Fabulous</title>
-        <desc lang="pt">24/7 Absolutely Fabulous</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AbsolutelyFabulous">
+        <title lang="en">24/7 Absolutely Fabulous</title>
+        <desc lang="en">24/7 Absolutely Fabulous</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AdamSandler">
-        <title lang="pt">24/7 Adam Sandler</title>
-        <desc lang="pt">24/7 Adam Sandler</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AdamSandler">
+        <title lang="en">24/7 Adam Sandler</title>
+        <desc lang="en">24/7 Adam Sandler</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AdamSandler">
-        <title lang="pt">24/7 Adam Sandler</title>
-        <desc lang="pt">24/7 Adam Sandler</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AdamSandler">
+        <title lang="en">24/7 Adam Sandler</title>
+        <desc lang="en">24/7 Adam Sandler</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="Airwolf">
-        <title lang="pt">24/7 Airwolf</title>
-        <desc lang="pt">24/7 Airwolf</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="Airwolf">
+        <title lang="en">24/7 Airwolf</title>
+        <desc lang="en">24/7 Airwolf</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="Airwolf">
-        <title lang="pt">24/7 Airwolf</title>
-        <desc lang="pt">24/7 Airwolf</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="Airwolf">
+        <title lang="en">24/7 Airwolf</title>
+        <desc lang="en">24/7 Airwolf</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="Aladdin">
-        <title lang="pt">24/7 Aladdin</title>
-        <desc lang="pt">24/7 Aladdin</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="Aladdin">
+        <title lang="en">24/7 Aladdin</title>
+        <desc lang="en">24/7 Aladdin</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="Aladdin">
-        <title lang="pt">24/7 Aladdin</title>
-        <desc lang="pt">24/7 Aladdin</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="Aladdin">
+        <title lang="en">24/7 Aladdin</title>
+        <desc lang="en">24/7 Aladdin</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="Alien">
-        <title lang="pt">24/7 Alien</title>
-        <desc lang="pt">24/7 Alien</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="Alien">
+        <title lang="en">24/7 Alien</title>
+        <desc lang="en">24/7 Alien</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="Alien">
-        <title lang="pt">24/7 Alien</title>
-        <desc lang="pt">24/7 Alien</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="Alien">
+        <title lang="en">24/7 Alien</title>
+        <desc lang="en">24/7 Alien</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AllCreaturesGreatandSmall">
-        <title lang="pt">24/7 All Creatures Great and Small</title>
-        <desc lang="pt">24/7 All Creatures Great and Small</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AllCreaturesGreatandSmall">
+        <title lang="en">24/7 All Creatures Great and Small</title>
+        <desc lang="en">24/7 All Creatures Great and Small</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AllCreaturesGreatandSmall">
-        <title lang="pt">24/7 All Creatures Great and Small</title>
-        <desc lang="pt">24/7 All Creatures Great and Small</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AllCreaturesGreatandSmall">
+        <title lang="en">24/7 All Creatures Great and Small</title>
+        <desc lang="en">24/7 All Creatures Great and Small</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AllintheFamily">
-        <title lang="pt">24/7 All in the Family</title>
-        <desc lang="pt">24/7 All in the Family</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AllintheFamily">
+        <title lang="en">24/7 All in the Family</title>
+        <desc lang="en">24/7 All in the Family</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AllintheFamily">
-        <title lang="pt">24/7 All in the Family</title>
-        <desc lang="pt">24/7 All in the Family</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AllintheFamily">
+        <title lang="en">24/7 All in the Family</title>
+        <desc lang="en">24/7 All in the Family</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AlloAllo">
-        <title lang="pt">24/7 Allo Allo</title>
-        <desc lang="pt">24/7 Allo Allo</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AlloAllo">
+        <title lang="en">24/7 Allo Allo</title>
+        <desc lang="en">24/7 Allo Allo</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AlloAllo">
-        <title lang="pt">24/7 Allo Allo</title>
-        <desc lang="pt">24/7 Allo Allo</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AlloAllo">
+        <title lang="en">24/7 Allo Allo</title>
+        <desc lang="en">24/7 Allo Allo</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AmericanPie">
-        <title lang="pt">24/7 American Pie</title>
-        <desc lang="pt">24/7 American Pie</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AmericanPie">
+        <title lang="en">24/7 American Pie</title>
+        <desc lang="en">24/7 American Pie</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AmericanPie">
-        <title lang="pt">24/7 American Pie</title>
-        <desc lang="pt">24/7 American Pie</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AmericanPie">
+        <title lang="en">24/7 American Pie</title>
+        <desc lang="en">24/7 American Pie</desc>
     </programme>
-    <programme start="20260215000000 +0000" stop="20260215235900 +0000" channel="AnIdiotAbroad">
-        <title lang="pt">24/7 An Idiot Abroad</title>
-        <desc lang="pt">24/7 An Idiot Abroad</desc>
+    <programme start="20260215000000 +0000" stop="20260215215959 +0000" channel="AnIdiotAbroad">
+        <title lang="en">24/7 An Idiot Abroad</title>
+        <desc lang="en">24/7 An Idiot Abroad</desc>
     </programme>
-    <programme start="20260216000000 +0000" stop="20260216235900 +0000" channel="AnIdiotAbroad">
-        <title lang="pt">24/7 An Idiot Abroad</title>
-        <desc lang="pt">24/7 An Idiot Abroad</desc>
+    <programme start="20260216000000 +0000" stop="20260216215959 +0000" channel="AnIdiotAbroad">
+        <title lang="en">24/7 An Idiot Abroad</title>
+        <desc lang="en">24/7 An Idiot Abroad</desc>
     </programme>
 </tv>
