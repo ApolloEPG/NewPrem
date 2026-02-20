@@ -5,7 +5,7 @@
 <display-name>Southampton</display-name>
 </channel>
 
-<programme channel="Southampton" start="20260219000000 +0000" stop="20260225235900 +0000">
+<programme channel="Southampton" start="20260219010000 +0000" stop="20260225220000 +0000">
 <title>Southampton Test</title>
 <desc>Just Testing This</desc>
 <sub-title>Testing Channel</sub-title>
