@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="20/2/2026 12:00:00 PM" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+
+<channel id="Southampton">
+<display-name>Southampton</display-name>
+</channel>
+
+<programme channel="Southampton" start="20260219000000 +0000" stop="20260225235900 +0000">
+<title>Southampton Test</title>
+<desc>Just Testing This</desc>
+<sub-title>Testing Channel</sub-title>
+</programme>
+
+</tv>
